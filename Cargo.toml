@@ -1,0 +1,9 @@
+[package]
+
+name = "higher-minded-types"
+version = "0.0.1"
+authors = ["Jared Roesch <roeschinc@gmail.com>"]
+
+[dependencies.iron]
+
+git = "https://github.com/iron/iron.git"
